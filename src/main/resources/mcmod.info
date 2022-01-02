@@ -1,0 +1,16 @@
+[
+{
+  "modid": "hypixel_view_price",
+  "name": "Hypixel Item Price Viewer",
+  "description": "A mod that helps viewing item price",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["syeyoung"],
+  "credits": "The Forge and FML guys, for making awesome api",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
